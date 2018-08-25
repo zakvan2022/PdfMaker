@@ -1,0 +1,109 @@
+{
+  "formatVersion" : 1,
+  "passTypeIdentifier" : "pass.com.ticketmaster.mobile.jds",
+  "organizationName" : "Miami Dolphins",
+  "serialNumber" : "0D00546DD497DF2F23518486773",
+  "teamIdentifier" : "8A6W445CNR",
+  "sharingProhibited" : true,
+  "relevantDate" : "2018-08-25T19:00-04:00",
+  "description" : "Event Ticket for Aug 25 at 7:00 PM, Ravens vs Dolphins",
+  "locations" : [
+    {
+      "latitude" : 25.958056,
+      "longitude" : -80.238889,
+      "relevantText" : "Ticket for Aug 25 at 7:00 PM"
+    }
+  ],
+  "barcode" : {
+    "message" : "832469327992R",
+    "altText" : "832469327992R",
+    "format" : "PKBarcodeFormatQR",
+    "messageEncoding" : "iso-8859-1"
+  },
+  "foregroundColor" : "RGB(255,255,255)",
+  "backgroundColor" : "RGB(0,142,151)",
+  "labelColor" : "RGB(255,255,255)",
+  "eventTicket" : {
+    "headerFields" : [
+      {
+        "key" : "datetime",
+        "label" : "9:00 PM",
+        "value" : "Aug 15"
+      }
+    ],
+    "primaryFields" : [
+      {
+        "key" : "dummy",
+        "value" : ""
+      }
+    ],
+    "secondaryFields" : [
+      {
+        "key" : "eventtitle",
+        "label" : "Hard Rock Stadium",
+        "value" : "Ravens vs Dolphins"
+      }
+    ],
+    "auxiliaryFields" : [
+      {
+        "key" : "section",
+        "label" : "Section",
+        "value" : "355"
+      },
+      {
+        "key" : "row",
+        "label" : "Row",
+        "value" : "10"
+      },
+      {
+        "key" : "seat",
+        "label" : "Seat",
+        "value" : "120"
+      },
+      {
+        "key" : "entryinfo",
+        "label" : "Entry Info",
+        "textAlignment" : "PKTextAlignmentRight",
+        "value" : "Tap Info Icon for Details"      }
+    ],
+    "backFields" : [
+      {
+        "key" : "venueaddress",
+        "label" : "STADIUM ADDRESS",
+        "value" : "Hard Rock Stadium\n347 Don Shula Drive\nMiami Gardens, FL 33056"
+      },      {
+        "key" : "venuephone",
+        "label" : "STADIUM PHONE NUMBER",
+        "value" : ""
+      },      {
+        "key" : "accountnumber",
+        "label" : "ACCOUNT ID",
+        "value" : "18486773"
+      },      {
+        "key" : "barcode",
+        "label" : "Barcode Number",
+        "value" : "832469327992R"
+      },      {
+        "key" : "entryinfo",
+        "label" : "Entry Info",
+        "value" : "300 Level - SW ENTRANCE"
+      },      {
+        "key" : "tickettypepricecode",
+        "label" : "TICKET TYPE",
+        "value" : "Renewal / UR"
+      },      {
+        "key" : "eventcode",
+        "label" : "EVENT CODE",
+        "value" : "MD0825"
+      },      {
+        "key" : "price",
+        "label" : "Ticket Price",
+        "value" : "22.00"
+      },      {
+        "key" : "termsandconditions",
+        "label" : "Terms and Conditions",
+        "value" : "This ticket is a revocable license that only grants entry into the stadium and a spectator seat, or if specified on the ticket, a standing location, for the specified event. Admission may be refused or withdrawn or ticket holder ejected in the sole discretion of Miami Dolphins Ltd. (Team) or South Florida Stadium LLC (SFS, and collectively with Team, the Dolphins Parties). \n\nTHE SOLE AND EXCLUSIVE REMEDY if admission is refused or withdrawn or if the event is cancelled and not replayed, is a refund of the face value of this ticket.  Further, the Dolphins Parties’ liability for any breach of any term of this ticket shall not exceed the face value.  IN NO EVENT SHALL THE DOLPHINS PARTIES OR THE NFL BE LIABLE FOR ANY SPECIAL, CONSEQUENTIAL, INCIDENTAL, INDIRECT OR EXEMPLARY DAMAGES OF ANY KIND, INCLUDING, WITHOUT LIMITATION, ANY AMOUNT PAID IN EXCESS OF FACE VALUE TO A THIRD PARTY FOR THIS TICKET. \n\nThe date and time of the specified event (and opening of the gates) are subject to change by the Dolphins Parties and/or the NFL in their sole discretion, and no such change shall entitle ticket holder to a refund or any other remedy if ticket holder cannot attend or for any other reason.  Ticket holder may be relocated to an alternative seat in the sole discretion of the Dolphins Parties, and no such relocation shall entitle ticket holder to a refund or any other remedy if ticket holder is relocated to a seat of comparable face value. \nTicket holder and his/her belongings may be searched prior to or upon entry into the stadium and/or other security checkpoints, and prohibited items may be confiscated.  Ticket holder must comply with the Dolphins Parties’ security policies, including any applicable bag policy.  Ticket holder consents to such searches and waives any claims against the Dolphins Parties, NFL, its Member Clubs, its affiliates, or its agents arising from or relating to such searches.  If ticket holder elects not to consent to these searches or comply with these security policies, ticket holder acknowledges that the NFL and/or the Dolphins Parties have the right to deny ticket holder entry.  No refund or other remedy will be provided if ticket holder is ejected or refused entry due to disorderly conduct or failure to comply with these ticket terms or any security policies prior to or following entry.\nTICKET HOLDER ALSO ACKNOWLEDGES AND AGREES that by tendering this ticket and entering the stadium, ticket holder, on behalf of him/herself and, to the extent permitted by law, any accompanying minor(s), agrees to the following additional terms, conditions and waivers:\nTicket holder assumes all risks incident to the event or related events, including the risk of lost, stolen or damaged property or personal injury of any kind and hereby waives any and all claims or potential claims arising from such risks, damage or injuries.\nTicket holder may not transmit or aid in transmitting any photographs, images, videos, livestreams or other accounts or descriptions (whether text, data or visual) in any media of all or any part of the event or related events (the Works).  Transmission or other distribution by, to, or for any commercial enterprise, and any public performance or display, direct or indirect, are also strictly prohibited.  Ticket holder agrees that by causing this ticket to be scanned upon entry to the stadium, ticket holder shall be understood to have signed this document and granted the NFL an exclusive, worldwide, sub-licensable, royalty-free license to all copyrights associated with the Works. \nTicket holder grants to the Dolphins Parties, the NFL, and their respective designees the irrevocable permission to use his or her voice, image, and/or likeness in any media now or hereafter existing in connection with all or any part of the event or related events, for any purpose whatsoever, including the commercial purposes of the NFL, the Dolphins Parties, their respective sponsors, licensees, advertisers and/or broadcasters, without further permission or compensation and hereby waives any and all claims or potential claims relating to such use.\nThe Dolphins Parties are not responsible for lost, stolen, destroyed, or counterfeit tickets.  Lost, stolen, destroyed or counterfeit tickets, or tickets sold in violation of any applicable law, may not be honored.  This ticket may not be used for, nor may any ticket holder enter the stadium for, advertising, promotion or any other commercial purposes (including contests, sweepstakes and giveaways) without the Dolphins Parties’ and/or NFL’s express written consent."
+      }
+    ]
+  }
+}
